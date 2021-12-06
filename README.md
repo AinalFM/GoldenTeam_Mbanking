@@ -2,7 +2,7 @@
 Judul              : Projek Lab PBO berbasis Java GUI
 Anggota Kelompok   : 1. Ainal Fajri Malahayati(2008107010053)
 		     2. Maghfirah ZA          (npm)
-		     3. Rahmi Susanti         (npm)
+		     3. Rahmi Susanti         (2008107010092)
 		     4. Yulia Khairunnisa     (2008107010010)
 
 Projek yang dibuat : Mbanking sederhana 
@@ -16,3 +16,19 @@ Pada projek ini kami membuat mbanking sederhana berbasis Java GUI. Program kami 
 3. Pada data nasabah ini user wajib mengisi PIN serta saldo awal(minimal 100k). Kemudian data nasabah seperti saldo akan disimpan dalam sebuah file. Dengan adanya file ini, maka data nasabah tadi akan disimpan lalu akan dilakukan operasi untuk membaca dan menulis file. Pada kelas file, terdapat method getter dan setter agar kita dapat memperoleh data saldo yang terbaru. Untuk saldo, akan dilakukan casting dari string ke integer agar memudahkan dalam membuat kondisi untuk melakuka transaksi.
 4. Kemudian setelah itu, user akan dialihkan menuju laman login. Pada login juga terdapat kondisi untuk pengecekan apakah username ataupun password yang diinput oleh user sama pada saat registrasi tadi. Jika iya, maka user berhasil menuju home. 
 5. Pada home terdapat 3 menu yaitu penarikan, penyetoran, dan informasi saldo. Pada penarikan dan penyetoran, kami menggunakan jradiobutton yang dikombinasikan dengan buttongroup untuk memilih nominal uang yang akan disetor ataupun ditarik. Pada button setor dan tarik kami menggunakan joptionpane, jika berhasil melakukan penarikan ataupun penyetoran maka akan muncul dialog message berhasil melakukan penarikan/penyetoran. Pada informasi saldo, akan ditampilkan dengan joptionpane sisa saldo user terkini. Dan yang terakhir terdapat button keluar, maka user akan terkeluar dari tampilan dan transaksipun selesai.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link Youtube
+https://youtu.be/MY2TXv4lYzs
