@@ -3,11 +3,11 @@ Judul              : Projek Lab PBO berbasis Java GUI
 Anggota Kelompok   : 1. Ainal Fajri Malahayati(2008107010053)
 		     2. Maghfirah ZA          (npm)
 		     3. Rahmi Susanti         (npm)
-		     4. Yulia Khairunnisa     (npm)
+		     4. Yulia Khairunnisa     (2008107010010)
 
 Projek yang dibuat : Mbanking sederhana 
 
-Penjelasan program 
+# Penjelasan program 
 
 Pada projek ini kami membuat mbanking sederhana berbasis Java GUI. Program kami memiliki 5 tampilan, yang terdiri dari Register, Login, pertaturan, data nasabah, dan yang terakhir adalah Home. Untuk tambahan, kami membuat 1 file yang berfungsi menyimpan data nasabah yang telah diisi oleh user seperti saldo. 
 
