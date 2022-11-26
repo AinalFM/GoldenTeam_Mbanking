@@ -7,6 +7,7 @@ Anggota Kelompok   :
 		     2. Maghfirah ZA          (2008107010075)
 		     3. Rahmi Susanti         (2008107010092)  
 		     4. Yulia Khairunnisa     (2008107010010)
+		     5. Rahmi Susanti         (2008107010092)
 
 Projek yang dibuat : Mbanking sederhana 
 
